@@ -1,0 +1,11 @@
+Environment variables:
+  - MNEMONIC
+  - HOST
+  - PORT
+  - TYPE
+  - BALANCE
+  - MY_MNEMONIC
+  - MY_PRIVATE_KEY
+  - MY_ADDRESS
+  - MY_SSH_PRI
+  - MY_SSH_PUB
